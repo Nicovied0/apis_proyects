@@ -1,0 +1,252 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "name": "IPHONE 14 PRO MAX 256 GB ",
+        "description": null,
+        "price": 1850,
+        "createdAt": "2022-10-04T01:33:32.550Z",
+        "updatedAt": "2022-10-04T01:33:33.650Z",
+        "publishedAt": "2022-10-04T01:33:33.646Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_877076-MLA51788088080_102022-O.webp"
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "name": "IPHONE 14 PRO 1 TB",
+        "description": null,
+        "price": 2220,
+        "createdAt": "2022-10-04T01:39:19.738Z",
+        "updatedAt": "2022-10-04T01:39:20.710Z",
+        "publishedAt": "2022-10-04T01:39:20.708Z",
+        "img_url": "https://www.tradeinn.com/f/13933/139331635/apple-iphone-14-pro-1tb-6.1.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "name": "IPHONE 14 PRO 512 GB",
+        "description": null,
+        "price": 1870,
+        "createdAt": "2022-10-04T01:40:39.841Z",
+        "updatedAt": "2022-10-04T01:40:41.259Z",
+        "publishedAt": "2022-10-04T01:40:41.253Z",
+        "img_url": "https://www.tradeinn.com/f/13933/139331635/apple-iphone-14-pro-1tb-6.1.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "name": "IPHONE 14 256 GB",
+        "description": null,
+        "price": 1250,
+        "createdAt": "2022-10-04T01:41:34.697Z",
+        "updatedAt": "2022-10-04T01:41:35.738Z",
+        "publishedAt": "2022-10-04T01:41:35.734Z",
+        "img_url": "https://www.tradeinn.com/f/13933/139331607/apple-iphone-14-128gb-6.1.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "name": "IPHONE 14 128 GB ",
+        "description": null,
+        "price": 1170,
+        "createdAt": "2022-10-04T01:42:08.563Z",
+        "updatedAt": "2022-10-04T01:42:09.353Z",
+        "publishedAt": "2022-10-04T01:42:09.349Z",
+        "img_url": "https://www.tradeinn.com/f/13933/139331607/apple-iphone-14-128gb-6.1.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "name": "IPHONE 13 PRO MAX 1 TB",
+        "description": null,
+        "price": 1800,
+        "createdAt": "2022-10-04T01:43:03.641Z",
+        "updatedAt": "2022-10-04T01:43:04.728Z",
+        "publishedAt": "2022-10-04T01:43:04.725Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_898035-MLA47777816827_102021-O.webp"
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "name": "IPHONE 13 PRO MAX 256 GB",
+        "description": null,
+        "price": 1400,
+        "createdAt": "2022-10-04T01:43:48.014Z",
+        "updatedAt": "2022-10-04T01:43:49.836Z",
+        "publishedAt": "2022-10-04T01:43:49.833Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_898035-MLA47777816827_102021-O.webp"
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "name": "IPHONE 13 PRO MAX 128 GB",
+        "description": null,
+        "price": 1300,
+        "createdAt": "2022-10-04T01:44:13.739Z",
+        "updatedAt": "2022-10-04T01:44:14.736Z",
+        "publishedAt": "2022-10-04T01:44:14.733Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_898035-MLA47777816827_102021-O.webp"
+      }
+    },
+    {
+      "id": 9,
+      "attributes": {
+        "name": "IPHONE 13 PRO 256 GB ",
+        "description": "",
+        "price": 1300,
+        "createdAt": "2022-10-04T01:44:57.542Z",
+        "updatedAt": "2022-10-04T01:44:58.431Z",
+        "publishedAt": "2022-10-04T01:44:58.427Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_753104-MLA47778455981_102021-O.webp"
+      }
+    },
+    {
+      "id": 10,
+      "attributes": {
+        "name": "IPHONE 13 PRO 128 GB",
+        "description": null,
+        "price": 1180,
+        "createdAt": "2022-10-04T01:45:29.316Z",
+        "updatedAt": "2022-10-04T01:45:30.482Z",
+        "publishedAt": "2022-10-04T01:45:30.480Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_753104-MLA47778455981_102021-O.webp"
+      }
+    },
+    {
+      "id": 11,
+      "attributes": {
+        "name": "IPHONE 13 512 GB",
+        "description": null,
+        "price": 1050,
+        "createdAt": "2022-10-04T01:46:20.476Z",
+        "updatedAt": "2022-10-04T01:46:21.762Z",
+        "publishedAt": "2022-10-04T01:46:21.758Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_731526-MLA47781634557_102021-O.webp"
+      }
+    },
+    {
+      "id": 12,
+      "attributes": {
+        "name": "IPHONE 13 256 GB ",
+        "description": null,
+        "price": 1010,
+        "createdAt": "2022-10-04T01:46:48.926Z",
+        "updatedAt": "2022-10-04T01:46:49.826Z",
+        "publishedAt": "2022-10-04T01:46:49.824Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_731526-MLA47781634557_102021-O.webp"
+      }
+    },
+    {
+      "id": 13,
+      "attributes": {
+        "name": "IPHONE 13 128 GB",
+        "description": null,
+        "price": 920,
+        "createdAt": "2022-10-04T01:47:08.898Z",
+        "updatedAt": "2022-10-04T01:47:09.711Z",
+        "publishedAt": "2022-10-04T01:47:09.710Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_731526-MLA47781634557_102021-O.webp"
+      }
+    },
+    {
+      "id": 14,
+      "attributes": {
+        "name": "IPHONE 12 128 GB ",
+        "description": null,
+        "price": 840,
+        "createdAt": "2022-10-04T01:48:12.573Z",
+        "updatedAt": "2022-10-04T01:48:19.714Z",
+        "publishedAt": "2022-10-04T01:48:19.711Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_784571-MLA45729987876_042021-O.webp"
+      }
+    },
+    {
+      "id": 15,
+      "attributes": {
+        "name": "IPHONE 12 64 GB",
+        "description": null,
+        "price": 730,
+        "createdAt": "2022-10-04T01:48:47.734Z",
+        "updatedAt": "2022-10-04T01:48:48.627Z",
+        "publishedAt": "2022-10-04T01:48:48.625Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_784571-MLA45729987876_042021-O.webp"
+      }
+    },
+    {
+      "id": 16,
+      "attributes": {
+        "name": "IPHONE 11 128 GB",
+        "description": null,
+        "price": 660,
+        "createdAt": "2022-10-04T01:49:17.066Z",
+        "updatedAt": "2022-10-04T01:49:17.963Z",
+        "publishedAt": "2022-10-04T01:49:17.961Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_796892-MLA46114829828_052021-O.webp"
+      }
+    },
+    {
+      "id": 17,
+      "attributes": {
+        "name": "IPHONE 11 64 GB",
+        "description": null,
+        "price": 580,
+        "createdAt": "2022-10-04T01:49:38.078Z",
+        "updatedAt": "2022-10-04T01:49:39.209Z",
+        "publishedAt": "2022-10-04T01:49:39.207Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_796892-MLA46114829828_052021-O.webp"
+      }
+    },
+    {
+      "id": 18,
+      "attributes": {
+        "name": "IPHONE SE 2022 256 GB",
+        "description": null,
+        "price": 650,
+        "createdAt": "2022-10-04T01:50:12.593Z",
+        "updatedAt": "2022-10-04T01:50:13.490Z",
+        "publishedAt": "2022-10-04T01:50:13.487Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_990892-MLA49590214677_042022-O.webp"
+      }
+    },
+    {
+      "id": 19,
+      "attributes": {
+        "name": "IPHONE SE 2022 128 GB ",
+        "description": null,
+        "price": 530,
+        "createdAt": "2022-10-04T01:50:40.132Z",
+        "updatedAt": "2022-10-04T01:50:41.100Z",
+        "publishedAt": "2022-10-04T01:50:41.097Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_990892-MLA49590214677_042022-O.webp"
+      }
+    },
+    {
+      "id": 20,
+      "attributes": {
+        "name": "IPHONE SE 2022 64 GB",
+        "description": null,
+        "price": 480,
+        "createdAt": "2022-10-04T01:51:01.107Z",
+        "updatedAt": "2022-10-04T01:51:02.359Z",
+        "publishedAt": "2022-10-04T01:51:02.357Z",
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_990892-MLA49590214677_042022-O.webp"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 21
+    }
+  }
+}
